@@ -7,7 +7,7 @@ It will generate all the necessary files we need to get started inside a directo
 
 # Running the App
 
-After creating your project, enter into the `your-app-name` directory and then run `npm start` to start your project. Now, you can view your application at [https://localhost:3000](https://localhost:3000)
+After creating your project, enter into the `your-app-name` directory and then run `npm start` to start your project. Now, you can view your application at [http://localhost:3000](http://localhost:3000)
 
 # File Structure
 
