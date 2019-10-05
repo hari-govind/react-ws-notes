@@ -13,9 +13,11 @@ import Footer from './Footer';
 
 function App() {
     return(
-        <Header />
-        <Content />
-        <Footer />
+        <div>
+            <Header />
+            <Content />
+            <Footer />
+        </div>
     );
 }
 
